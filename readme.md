@@ -1,4 +1,6 @@
-# Maquetación - Front End B-learning
+﻿# Maquetación - Front End B-learning
+
+LINK: https://stephchacin.github.io/ACTP_2_maquetacion/index.html
 
 ## Maquetando una entrada de blog
 
